@@ -1,0 +1,6 @@
+race_id,snapshot_date,pollster,sample_size,candidate1_name,candidate1_support_pct,candidate2_name,candidate2_support_pct
+2026_REP_NOM _TX-SENATE,2026-03-25,Emerson,1000,Ken Paxton,30.5,John Cornyn,45.2
+2026_REP_NOM _TX-SENATE,2026-03-20,University of Houston,850,Ken Paxton,33.0,John Cornyn,42.0
+2026_REP_NOM _TX-SENATE,2026-03-15,Co/efficient,900,Ken Paxton,28.0,John Cornyn,48.0
+2028_REP_PRES_NOM,2026-03-28,Ipsos,1200,JD Vance,55.0,Ron DeSantis,20.0
+2028_REP_PRES_NOM,2026-03-10,YouGov,950,JD Vance,52.0,Ron DeSantis,22.0
